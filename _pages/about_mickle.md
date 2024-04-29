@@ -1,0 +1,2 @@
+I have a diverse research background that includes: behavioral neuroscience, molecular and cellular neuroscience, neuropharmacology, neurophysiology, urology, and bioengineering. My current research focuses on incorporating molecular, cellular, and whole-animal approaches to answer questions in relation to bladder physiology and pain relief mechanisms. I have extensive interest in continuing to advance the field of pain research, education, and training. 
+In my free time, I chase around my three kids and enjoy camping, backpacking and paddling.
