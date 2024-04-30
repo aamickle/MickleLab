@@ -6,7 +6,7 @@ subtitle: at the Medical College of Wisconsin
 
 profile:
   align: right
-  image: MickleLabsBlack_LogoOnly.png
+  image: greendevice.tiff
   image_circular: false # crops the image to make it circular
   more_info: >
     
