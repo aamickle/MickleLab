@@ -1,5 +1,3 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I have a diverse research background that includes: behavioral neuroscience, molecular and cellular neuroscience, neuropharmacology, neurophysiology, urology, and biomedical engineering. My current research focuses on incorporating molecular, cellular, and whole-animal approaches to answer questions in relation to bladder physiology and pain relief mechanisms. I have an extensive interest in continuing to advance the field of bladder physiology research, visceral pain mechanisms, education, and training. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time, I chase around my three kids and enjoy camping, backpacking, and paddling.
