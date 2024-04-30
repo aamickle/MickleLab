@@ -12,5 +12,5 @@ children:
     permalink: /projects/
   - title: divider
   - title: people
-    permalink: /profiles/
+    permalink: /people/
 ---
