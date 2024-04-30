@@ -16,6 +16,6 @@ Urothelial cells play a sensory role in bladder function. However, it has been p
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Visual Abstract. Created with Biorender
 </div>
 layout: post
