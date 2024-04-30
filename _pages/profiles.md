@@ -17,7 +17,7 @@ profiles:
       <p>Aaron Mickle</p>
   - align: left
     image: alom.jpg
-    content: about_alom.md
+    content: about_Alom.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Firoj Alom</p>
@@ -35,7 +35,7 @@ profiles:
       <p>Hannah Anderson</p>
   - align: right
     image: alom.jpg
-    content: about_alom.md
+    content: about_Alom.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Bhavana Talluri</p>
