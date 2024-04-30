@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: at the Medical College of Wisconsin
 
 profile:
   align: right
@@ -18,8 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The Visceral Neurophysiology and Engineering Lab, led by Dr. Aaron Mickle, is based in the Department of Physiology at the Medical College of Wisconsin. Our research focuses on neuronal control of bladder dysfunction and pain. Specifically, we investigate the fundamental mechanisms underlying bladder sensory function, including how sensory information is transmitted from non-neuronal cells within the bladder to sensory neurons. Additionally, we explore how the central nervous system encodes this information.
+Our lab is committed to developing innovative treatments for various bladder disorders, such as overactive bladder, bladder pain syndrome, and bladder dysfunction following spinal cord injury. We approach this challenge from multiple angles, including:
+•	Research tool development: Creating advanced tools to study bladder function and dysfunction.
+•	Implantable biomedicine treatments: Exploring novel approaches for managing bladder-related conditions.
+•	Validating new pharmacological targets: Identifying potential drug targets to improve patient outcomes.
+Furthermore, we extend our interest beyond bladder-related issues to include pelvic organ pain and interoception. Our goal is to enhance our understanding of these complex physiological processes and contribute to better patient care.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
