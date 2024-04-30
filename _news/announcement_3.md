@@ -2,7 +2,7 @@
 layout: post
 title: New publication on the communication between sensory neurons and urothelial cells
 date: 2023-07-11 07:59:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
