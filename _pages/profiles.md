@@ -16,11 +16,27 @@ profiles:
     more_info: >
       <p>Aaron Mickle</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: alom.jpg
+    content: about_alom.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Firoj Alom</p>
+  - align: right
+    image: alom.jpg
+    content: about_alom.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Gabbie Robilloto</p>
+  - align: left
+    image: alom.jpg
+    content: about_alom.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Hannah Anderson</p>
+  - align: right
+    image: alom.jpg
+    content: about_alom.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Bhavana Talluri</p>
 ---
