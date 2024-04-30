@@ -1,33 +1,26 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: The lab is moving to the Medical College of Wisconsin
+date: 2024-04-30 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+The Viseral Neurophysiology and Engineering Lab is moving to the Medical College of Wisconsin (MCW) on July 1st. 
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+The Visceral Neurophysiology and Engineering lab is undergoing significant changes this summer, with the transition to the Medical College of Wisconsin (MCW). Let’s delve into the details:
 
-#### Hipster list
+1.	Dr. Aaron Mickle: Our Principal Investigator (PI), Dr. Aaron Mickle, will assume a new role as an Associate Professor. His primary appointment will be in the Department of Physiology, where he will contribute to cutting-edge research and academic endeavors. Additionally, Dr. Mickle will hold joint appointments in the Departments of Urology and Neurosurgery, fostering interdisciplinary collaborations.
+   
+2.	Postdoctoral Fellow Firoj Alom: Firoj Alom, a dedicated Postdoctoral Fellow, will also be joining MCW. His expertise in bladder physiology will undoubtedly enhance our scientific pursuits.
+   
+3.	Graduate Students Gabbie Robilotto and Hannah Anderson: Gabbie Robilotto and Hannah Anderson, both accomplished graduate students, are part of this exciting transition. Their commitment to advancing knowledge and their fresh perspectives will invigorate our research endeavors.
+   
+4.	Welcoming Research Associate Bhavana Talluri: We are thrilled to introduce Bhavana Talluri, our newest team member. Bhavana will assume her role as a Research Associate on July 1. Her background in molecular neuroscience will complement our existing expertise.
+   
+5.	New Lab Location: The UFL lab will be physically situated in the recently renovated basic science building. This state-of-the-art facility will provide an optimal environment for our research activities.
+   
+As we embark on this journey, we eagerly anticipate forging new collaborations, sharing insights, and making impactful contributions to the scientific community. Our collective enthusiasm drives us forward, and we look forward to meeting our colleagues at MCW.
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
