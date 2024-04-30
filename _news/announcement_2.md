@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The lab is moving to the Medical College of Wisconsin
-date: 2024-04-30 16:11:00-0400
+date: 2024-04-29 16:11:00-0400
 inline: false
 related_posts: false
 ---
