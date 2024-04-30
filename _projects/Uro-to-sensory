@@ -2,17 +2,13 @@
 layout: page
 title: project 1
 description: a project with a background image
-img: assets/img/12.jpg
+img: Co-culture.png
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Urothelial cells play an active role in bladder physiology by responding to physical/chemical stimuli and signaling to sensory neurons and other cell types in the bladder. Numerous bladder diseases affecting millions of people, including overactive bladder, pain related to recurrent bladder infection, chemotherapeutic cystitis, and bladder pain syndrome, have been suspected to disrupt urothelial sensory signaling, leading to pathological changes to sensory signaling, including pain. While it has been accepted that urothelial cells play a role in bladder sensory function, it is unclear how these cells contribute to the sensation of filling and how it is altered under painful conditions. To unravel the role of urothelial cells in bladder nociception and sensory dysfunction, we have developed a novel mouse model that allows for direct stimulation of urothelial cells using optogenetics, light activated proteins. This project broadly focuses on functionally and molecularly identify the population of sensory neurons responding to direct urothelial stimulation of sensory nerve activity in normal and inflammatory conditions.  We are using in vivo electrophysiology, fMRI and wireless implantable LEDs paired with behavior to study this question.
 
     ---
     layout: page
