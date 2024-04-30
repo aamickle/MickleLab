@@ -1,5 +1,6 @@
 ---
 layout: post
+title: New publication on the communication between sensory neurons and urothelial cells
 date: 2023-07-11 07:59:00-0400
 inline: true
 related_posts: false
@@ -17,3 +18,8 @@ Urothelial cells play a sensory role in bladder function. However, it has been p
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
+layout: post
+
+date: 2024-04-29 16:11:00-0400
+inline: false
+related_posts: false
