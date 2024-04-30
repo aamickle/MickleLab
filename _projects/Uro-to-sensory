@@ -2,7 +2,7 @@
 layout: page
 title: Urothelial/Sensory Neuron Communication
 description: Unveiling the role of urothelial cell contribution to bladder sensation and pain
-img: /assets/img/Co-culture.png
+img: /assets/img/ihc-drg.jpg
 importance: 1
 category: work
 related_publications: true
@@ -10,34 +10,13 @@ related_publications: true
 
 Urothelial cells play an active role in bladder physiology by responding to physical/chemical stimuli and signaling to sensory neurons and other cell types in the bladder. Numerous bladder diseases affecting millions of people, including overactive bladder, pain related to recurrent bladder infection, chemotherapeutic cystitis, and bladder pain syndrome, have been suspected to disrupt urothelial sensory signaling, leading to pathological changes to sensory signaling, including pain. While it has been accepted that urothelial cells play a role in bladder sensory function, it is unclear how these cells contribute to the sensation of filling and how it is altered under painful conditions. To unravel the role of urothelial cells in bladder nociception and sensory dysfunction, we have developed a novel mouse model that allows for direct stimulation of urothelial cells using optogenetics, light activated proteins. This project broadly focuses on functionally and molecularly identify the population of sensory neurons responding to direct urothelial stimulation of sensory nerve activity in normal and inflammatory conditions.  We are using in vivo electrophysiology, fMRI and wireless implantable LEDs paired with behavior to study this question.
 
----
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/Co-culture.png
----
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/UPK Visual Abstract (1).png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Visual Abstract from our recent [AJP-renal publication](https://pubmed.ncbi.nlm.nih.gov/37318991/)demonstrats that optogenetic activation of urothelial cells leads to increases in sensory neuron activity. Visual Abstract Made with Biorender.
 </div>
 
 {% raw %}
