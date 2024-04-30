@@ -22,14 +22,14 @@ profiles:
     more_info: >
       <p>Firoj Alom</p>
   - align: right
-    image: alom.jpg
-    content: about_alom.md
+    image: Gabbie-headhsot.jpg
+    content: about_Robilotto.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Gabbie Robilotto</p>
   - align: left
-    image: alom.jpg
-    content: about_alom.md
+    image: Hannah.png
+    content: about_Anderson.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Hannah Anderson</p>
