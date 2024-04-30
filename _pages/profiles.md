@@ -26,7 +26,7 @@ profiles:
     content: about_alom.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Gabbie Robilloto</p>
+      <p>Gabbie Robilotto</p>
   - align: left
     image: alom.jpg
     content: about_alom.md
