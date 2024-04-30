@@ -22,7 +22,9 @@ The Visceral Neurophysiology and Engineering Lab, led by Dr. Aaron Mickle, is ba
 Our lab is committed to developing innovative treatments for various bladder disorders, such as overactive bladder, bladder pain syndrome, and bladder dysfunction following spinal cord injury. We approach this challenge from multiple angles, including:
 
 •	Research tool development: Creating advanced tools to study bladder function and dysfunction.
+
 •	Implantable biomedicine treatments: Exploring novel approaches for managing bladder-related conditions.
+
 •	Validating new pharmacological targets: Identifying potential drug targets to improve patient outcomes.
 
 Furthermore, we extend our interest beyond bladder-related issues to include pelvic organ pain and interoception. Our goal is to enhance our understanding of these complex physiological processes and contribute to better patient care.
