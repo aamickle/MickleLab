@@ -2,7 +2,7 @@
 layout: page
 title: bladder function and spinal cord injury
 description: Development of approaches to improve bladder function following spinal cord injury
-img:
+img: assets/img/sci_histology.jpeg
 importance: 4
 category: work
 ---
