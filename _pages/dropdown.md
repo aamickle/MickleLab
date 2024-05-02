@@ -13,4 +13,7 @@ children:
   - title: divider
   - title: people
     permalink: /people/
+  - title: divider
+  - title: alumni
+    permalink: /alumni/
 ---
