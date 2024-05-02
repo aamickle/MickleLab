@@ -12,7 +12,7 @@ profiles:
   - align: right
     image: Aaron-Mickle.jpg
     content: about_Mickle.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
       <p>Aaron Mickle</p>
   - align: left
