@@ -16,7 +16,7 @@ profiles:
     more_info: >
       <p>Aaron Mickle</p>
   - align: left
-    image: Alom.jpg
+    image: alom.jpg
     content: about_Alom.md
     image_circular: false # crops the image to make it circular
     more_info: >
