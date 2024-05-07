@@ -26,11 +26,11 @@ Current potential projects include:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_1842.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ropes_group.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Lab Holiday Gathering 2023.
+    Lab Retreat 2023.
 </div>
 
 #### Postdoctoral Positions	
@@ -39,9 +39,9 @@ We currently have funding for two postdoctoral fellows in multiple areas, depend
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_1842.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/firojsfnposter.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Lab Holiday Gathering 2023.
+    Firoj Alom, postdoc in the lab, presenting his poster at SFN 2023.
 </div>
