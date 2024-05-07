@@ -1,13 +1,11 @@
 
 ---
-
 layout: page
 permalink: /joining/
-title: joining 
+title: joining the lab 
 description: information about joining the lab
 nav: true
 nav_order: 5
-
 ---
 
 
