@@ -16,4 +16,7 @@ children:
   - title: divider
   - title: alumni
     permalink: /alumni/
+  - title: divider
+  - title: joining the lab
+    permalink: /joining/
 ---
