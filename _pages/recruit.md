@@ -1,6 +1,6 @@
 ---
 layout: page
-title: joining
+title: joining the lab
 permalink: /joining/
 description: How to become part of our group
 nav: true
@@ -41,5 +41,22 @@ We currently have funding for two postdoctoral fellows in multiple areas, depend
     </div>
 </div>
 <div class="caption">
-    Firoj Alom, postdoc in the lab, presenting his poster at SFN 2023.
+    Firoj Alom, a postdoc in the lab, presented his poster at SFN 2023.
+</div>
+
+
+#### Undergraduate Research
+
+We actively support undergraduate research. If you are an undergraduate in Milwaukee and want to work in the lab during the semester, please reach out via email. 
+Summer Research Programs are the best way to get involved in research as they provide an extended full-time research experience that pays you! 
+
+[Summer Program for Undergraduate Research (SPUR) at the Medical College of Wisconsin](https://www.mcw.edu/education/graduate-school/prospective-students/summer-program-for-undergraduate-research)
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Nia_poster.jpg" title="Nia Poster Presentation" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Nia Dufeal, an undergraduate researcher, presents her research at CVM PhiZeta Research Day 2023.
 </div>
