@@ -1,14 +1,12 @@
-
 ---
 layout: page
+title: joining
 permalink: /joining/
-title: joining the lab 
-description: information about joining the lab
+description: How to become part of our group
 nav: true
 nav_order: 5
 ---
-
-
+ 
 #### Graduate Students
 
 We currently have funding for one graduate student!
