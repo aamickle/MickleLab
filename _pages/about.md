@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: at the Medical College of Wisconsin
+subtitle: 
 
 profile:
   align: right
