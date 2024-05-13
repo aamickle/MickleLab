@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://micklelab.com/sitemap.xml
+Sitemap: https://https://aamickle.github.io//MickleLab//sitemap.xml
