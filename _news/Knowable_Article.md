@@ -7,4 +7,4 @@ related_posts: false
 
 Dr. Mickle was recently interviewed for an article on brain bladder interactions and how urine urgency is perceived.
 
-[Read Here]([https://support.doctorpodcasting.com/client/ufvm/item/49362-new-approaches-for-understanding-and-treating-bladder-pain-syndrome#](https://knowablemagazine.org/content/article/health-disease/2024/how-do-we-sense-the-need-to-urinate))
+[Read Here](https://knowablemagazine.org/content/article/health-disease/2024/how-do-we-sense-the-need-to-urinate)
