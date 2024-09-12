@@ -33,7 +33,7 @@ Current potential projects include:
 
 #### Postdoctoral Positions	
 
-We currently have funding for two postdoctoral fellows in multiple areas, depending on the candidate's interests and skill levels. Please reach out via email to Aaron Mickle if interested.  
+Our dynamic team at the Medical College of Wisconsin is seeking a post-doctoral researcher to join our group studying mechanisms of bladder sensation, interoception, and pain. The postdoctoral researcher would have the opportunity to lead studies involving signaling between nociceptors and non-neuronal cells in models of interstitial cystitis and bladder pain. They would have the opportunity to learn a variety of techniques from animal behavior, cytometric testing, electrophysiology, fMRI, and optogenetics. Additionally, there are time resources available to initiate independent projects to build a research career towards independence. Interested applicants can reach out to Aaron Mickle directly through email amickle at mcw.edu.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
