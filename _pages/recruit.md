@@ -10,9 +10,11 @@ nav_order: 5
 #### Graduate Students
 
 We currently have funding for at least one graduate student!
-We are involved in two Graduate School Programs. Please click on the link below for more details on how to apply for these programs. If you are already in the program and interested in rotating, please reach out directly to Aaron Mickle via email. 
+We are involved in three Graduate School Programs. Please click on the link below for more details on how to apply for these programs. If you are already in the program and interested in rotating, please reach out directly to Aaron Mickle via email. 
 
 [Interdisciplinary Doctoral Program in Biomedical Sciences (IDP) at the Medical College of Wisconsin]( https://www.mcw.edu/education/graduate-school/graduate-school-programs/Biomedical-sciences-phd)
+
+[Neuroscience Doctoral Program (NDP) at the Medical College of Wisconsin](https://www.mcw.edu/education/graduate-school/graduate-school-programs/neuroscience-phd)
 
 [The Marquette University and Medical College of Wisconsin Joint Department of Biomedical Engineering Graduate Program](https://mcw.marquette.edu/biomedical-engineering/graduate-studies/index.php) 
 
