@@ -38,9 +38,9 @@ Furthermore, we extend our interest beyond bladder-related issues to include pel
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_1842.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/grouplab2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Lab Holiday Gathering 2023.
+    Lab at Cairibu 2024.
 </div>
