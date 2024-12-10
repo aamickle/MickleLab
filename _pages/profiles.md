@@ -34,7 +34,7 @@ profiles:
     more_info: >
       <p>Hannah Anderson</p>
   - align: right
-    image: Co-culture.png
+    image: Bhavana.jpg
     content: about_Talluri.md
     image_circular: false # crops the image to make it circular
     more_info: >
