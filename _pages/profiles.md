@@ -22,18 +22,24 @@ profiles:
     more_info: >
       <p>Firoj Alom</p>
   - align: right
+    image: BL.jpg
+    content: about_bettega.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Bettega Lopes</p>
+  - align: left
     image: Gabbie-headhsot.jpg
     content: about_Robilotto.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Gabbie Robilotto</p>
-  - align: left
+  - align: right
     image: Hannah.png
     content: about_Anderson.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Hannah Anderson</p>
-  - align: right
+  - align: left
     image: Bhavana.jpg
     content: about_Talluri.md
     image_circular: false # crops the image to make it circular
