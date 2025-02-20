@@ -27,7 +27,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Bettega Lopes</p>
-   - align: left
+  - align: left
     image: Bhavana.jpg
     content: about_Talluri.md
     image_circular: false # crops the image to make it circular
