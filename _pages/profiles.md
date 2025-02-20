@@ -27,6 +27,18 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Bettega Lopes</p>
+   - align: left
+    image: Bhavana.jpg
+    content: about_Talluri.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Bhavana Talluri</p>
+  - align: right
+    image: zach.jpg
+    content: about_zsmith.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Zach Smith</p>
   - align: left
     image: Gabbie-headhsot.jpg
     content: about_Robilotto.md
@@ -39,10 +51,5 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Hannah Anderson</p>
-  - align: left
-    image: Bhavana.jpg
-    content: about_Talluri.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Bhavana Talluri</p>
+
 ---
