@@ -12,5 +12,5 @@ Congraulations to Gabbie Robilotto for winning Top Basic Science Abstract and ea
     </div>
 </div>
 <div class="caption">
-    Congradulations Gabbie!
+    Congratulations Gabbie!
 </div>
