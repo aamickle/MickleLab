@@ -6,7 +6,6 @@ related_posts: false
 ---
 
 Congratulations to Bhavana Talliari on 5 Years at MCW. We are so lucky to have you in the Group!
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/bhavana_5yr.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
