@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: assets/img/2025_06_11_MCWLabGroups_007.JPG
+  image: 2025_06_11_MCWLabGroups_007.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     
